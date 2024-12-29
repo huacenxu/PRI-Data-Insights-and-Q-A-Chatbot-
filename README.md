@@ -1,10 +1,10 @@
 ### PRI Data Insights and Q&A Chatbot
 #### Overview
-This project combines data analysis, AI-powered insights, and a chatbot interface to enhance operational efficiency in handling PRI data and summary notes. The pipeline integrates modern AI techniques, visualization tools, and chatbot functionality.
+This project combines data analysis, AI-powered insights, and a chatbot interface to enhance operational efficiency in handling Post-Release Issues (PRI) data and summary notes. The pipeline integrates modern AI techniques, visualization tools, and chatbot functionality.
 
 #### Key Features
 Data Preprocessing:
-Cleans, merges, and processes PRI and summary notes data.
+Cleans, merges, and processes PRI and summary notes (releasing notes) data.
 Maps data by semantic topics and categories.
 
 Similarity Scoring:
